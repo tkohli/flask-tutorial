@@ -58,3 +58,4 @@ Instead of creating a Flask instance globally, you will create it inside a funct
 It’s time to start coding! Create the flaskr directory and add the __init__.py file. The __init__.py serves double duty: it will contain the application factory, and it tells Python that the flaskr directory should be treated as a package.
 # TO remove 
 Currently working on IBM app need to do its alignment etc etc etc
+The ap is now into dvevelpoment phase and testing is to be done though after some failed trial it is working now
